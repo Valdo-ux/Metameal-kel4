@@ -1,5 +1,5 @@
 <x-appLanding title="Home">
-    <!-- Hero Section -->
+    <!-- Hero Sections -->
     <section class="flex flex-col md:flex-row items-center justify-between px-8 md:px-16 py-12 bg-custom-green">
         <div class="md:w-1/2 mb-8 md:mb-0">
             <h1 class="text-3xl md:text-4xl font-bold text-white mb-4">Diet Lebih Mudah & Terarah dengan <span class="text-white">MetaMeal</span></h1>

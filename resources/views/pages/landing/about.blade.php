@@ -1,5 +1,5 @@
 <x-appLanding title="About">
-    <!-- About Section -->
+    <!-- About Sections -->
     <section class="bg-light-blue px-6 py-12 md:px-20 md:py-16 rounded-lg m-6 md:mx-20">
         <div class="flex flex-col md:flex-row items-center gap-10">
             <div class="md:w-1/2">

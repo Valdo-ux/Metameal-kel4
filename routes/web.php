@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 
 
 
-//LANDING PAGES
+//LANDING PAGE
 Route::get('/', [LandingpageController::class, 'home'])->name('landing');
 Route::prefix('landing')->controller(LandingpageController::class)->group(function (){
     Route::get('/about', 'about')->name('about');
